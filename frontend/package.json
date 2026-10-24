@@ -13,19 +13,22 @@
   "dependencies": {
     "@blueprintjs/core": "^6.21.0",
     "@blueprintjs/icons": "^6.14.1",
+    "@mkkellogg/gaussian-splats-3d": "^0.4.7",
     "@tailwindcss/vite": "^4.3.3",
     "d3-contour": "^4.0.2",
     "maplibre-gl": "^6.15.0",
     "pmtiles": "^4.5.0",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "tailwindcss": "^4.3.3"
+    "tailwindcss": "^4.3.3",
+    "three": "^0.186.1"
   },
   "devDependencies": {
     "@types/d3-contour": "^3.0.6",
     "@types/node": "^24.19.2",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.186.0",
     "@vitejs/plugin-react": "^6.1.2",
     "oxlint": "^1.88.0",
     "typescript": "~6.0.3",
